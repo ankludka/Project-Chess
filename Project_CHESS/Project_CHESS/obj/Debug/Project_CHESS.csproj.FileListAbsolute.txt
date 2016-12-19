@@ -1,0 +1,6 @@
+C:\Users\Zuzanna\Desktop\Projects\Project_CHESS\Project_CHESS\bin\Debug\Project_CHESS.exe.config
+C:\Users\Zuzanna\Desktop\Projects\Project_CHESS\Project_CHESS\bin\Debug\Project_CHESS.exe
+C:\Users\Zuzanna\Desktop\Projects\Project_CHESS\Project_CHESS\bin\Debug\Project_CHESS.pdb
+C:\Users\Zuzanna\Desktop\Projects\Project_CHESS\Project_CHESS\obj\Debug\Project_CHESS.csprojResolveAssemblyReference.cache
+C:\Users\Zuzanna\Desktop\Projects\Project_CHESS\Project_CHESS\obj\Debug\Project_CHESS.exe
+C:\Users\Zuzanna\Desktop\Projects\Project_CHESS\Project_CHESS\obj\Debug\Project_CHESS.pdb
